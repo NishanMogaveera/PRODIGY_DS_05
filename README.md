@@ -8,12 +8,19 @@ Source: Kaggle-https://www.kaggle.com/datasets/atharvasoundankar/road-accidents-
 
 Tools Used-
 -Python
+
 -Pandas, NumPy
+
 -Matplotlib, Seaborn
+
 -Folium
+
 
 Key Insights-
 -Peak accidents during rush hours
+
 -Wet and icy roads increase accident risk
+
 -Low visibility leads to higher accident severity
+
 -Urban areas show dense accident hotspots

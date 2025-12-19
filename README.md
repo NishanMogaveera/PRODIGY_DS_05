@@ -3,10 +3,11 @@
 Analyzed road traffic accident data to identify patterns related to time of day, weather conditions, road surface conditions, and accident severity.
 Accident hotspots were visualized using geospatial data.
 
-Dataset-Road Traffic Accident Data(United Kingdom)
+#Dataset-Road Traffic Accident Data(United Kingdom)
 Source: Kaggle-https://www.kaggle.com/datasets/atharvasoundankar/road-accidents-dataset
 
-Tools Used-
+#Tools Used-
+
 -Python
 
 -Pandas, NumPy
@@ -16,7 +17,8 @@ Tools Used-
 -Folium
 
 
-Key Insights-
+#Key Insights-
+
 -Peak accidents during rush hours
 
 -Wet and icy roads increase accident risk
